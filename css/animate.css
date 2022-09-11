@@ -3270,3 +3270,13 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+
+.btn-outline-light {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+  background-color: #ffffff;
+}
+
